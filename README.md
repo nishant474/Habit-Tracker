@@ -1,5 +1,4 @@
-# HABIT TRACKER x FLUTTER
+#Technologies used in this project are Flutter
 
-Watch the tutorial here: https://youtu.be/2VKpq4h3Sdw
 
-![D0579C15-F31C-4BFD-A9FC-2941E0A0F8FA](https://user-images.githubusercontent.com/29016489/194004331-a313f587-d45a-41d4-919d-95680f339ea7.JPG)
+![WhatsApp Image 2023-04-09 at 3 19 56 PM](https://user-images.githubusercontent.com/80538677/230766115-a1906a58-d2a8-426b-9925-217b165aa511.jpeg)
